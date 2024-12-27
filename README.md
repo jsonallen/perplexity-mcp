@@ -2,7 +2,7 @@
 
 A Model Context Protocol (MCP) server that provides web search functionality using [Perplexity AI's](https://www.perplexity.ai/) API.  Works with the [Anthropic](https://www.anthropic.com/news/model-context-protocol) Claude desktop client. 
 
-<a href="https://glama.ai/mcp/servers/ebg0za4hn9"><img width="380" height="200" src="https://glama.ai/mcp/servers/ebg0za4hn9/badge" alt="Perplexity Server MCP server" /></a>
+<a href="https://glama.ai/mcp/servers/ebg0za4hn9"><img width="380" height="200" src="https://glama.ai/mcp/servers/ebg0za4hn9/badge?v1" alt="Perplexity Server MCP server" /></a>
 
 ## Components
 
